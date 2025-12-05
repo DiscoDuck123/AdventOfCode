@@ -1,0 +1,9 @@
+*.dSYM/
+*.DS_Store
+*.o
+*.exe
+
+# Ignore compiled programs
+
+SecretEntrance
+GiftShop
